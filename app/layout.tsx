@@ -23,11 +23,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Sophia & Alexander — Wedding Invitation",
+  title: "Wedding Invitation",
   description:
     "Join us as we celebrate our love. An intimate wedding ceremony and reception on the 14th of September, 2025.",
   openGraph: {
-    title: "Sophia & Alexander — Wedding Invitation",
+    title: "Wedding Invitation",
     description: "You are cordially invited to our wedding celebration.",
     type: "website",
   },
